@@ -10,6 +10,8 @@
 ### Connect with me:
 [<img align="left" alt="Cristian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
+[<img align="left" alt="Cristian | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][facebook]
+<br />
 
 ### Languages and Tools:
 
@@ -40,6 +42,7 @@
 ---
 [website]: https://www.freecodecamp.org/cris-castillo
 [linkedin]: https://www.linkedin.com/in/cristian-c-castillo-28605b1b1/
+[facebook]: https://www.facebook.com/cristian.carrillocastillo
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
