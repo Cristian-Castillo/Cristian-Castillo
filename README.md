@@ -9,8 +9,8 @@
 
 ### Connect with me:
 [<img align="left" alt="Cristian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-[<img align="left" alt="Cristian | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][facebook]
+
+[<img align="left" alt="Cristian | Facebook" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/facebook-social-media-fb-logo-square-44659.png" />][facebook]
 <br />
 
 ### Languages and Tools:
