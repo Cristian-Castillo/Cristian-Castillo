@@ -10,7 +10,6 @@
 ### Connect with me:
 [<img align="left" alt="Cristian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Cristian | Facebook" width="22px" src="https://themuseum.ca/wp-content/uploads/2018/05/facebook-icon-transparent-background-20.png" />][facebook]
 <br />
 
 ### Languages and Tools:
