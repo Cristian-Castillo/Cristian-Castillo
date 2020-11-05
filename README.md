@@ -1,11 +1,11 @@
 ### Hi there, I'm Cristian 👋
 
 ## I'm a Husband, Pug Owner, and a Computer Scientist!
-- 🔭  I’m currently working on Multithreading 
-- 🌱  I’m currently learning everything 🤣
-- 👯  I’m looking to collaborate with other content creators
-- 🥅  2020 Goals: Contribute more to Open Source projects
-- ⚡  Fun fact: I love to learn new things all the time
+- 🔭   I’m currently working on Multithreading 
+- 🌱   I’m currently learning everything 🤣
+- 👯   I’m looking to collaborate with other content creators
+- 🥅   2020 Goals: Contribute more to Open Source projects
+- ⚡    Fun fact: I love to learn new things all the time
 
 ### Connect with me:
 [<img align="left" alt="Cristian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
