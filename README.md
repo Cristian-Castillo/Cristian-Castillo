@@ -16,6 +16,8 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
+[<img align="left" alt="C++" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png" />][cpp]
+
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -40,6 +42,7 @@
 
 ---
 [website]: https://www.freecodecamp.org/cris-castillo
+[cpp]: https://www.cplusplus.com/
 [linkedin]: https://www.linkedin.com/in/cristian-c-castillo-28605b1b1/
 [facebook]: https://www.facebook.com/cristian.carrillocastillo
 [twitter]: https://twitter.com/
