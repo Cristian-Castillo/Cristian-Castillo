@@ -11,6 +11,8 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
+[<img align="left" alt="Git" width="26px" src=https://lh3.googleusercontent.com/proxy/ywpeICs1ZJh2fTOEXkffz_ZyZ_t3c9ZBMD_TLKo_p66-05guXx1GTUWhgkWPa7IHpWHiRppn_eoECJczWNAm8PgsKqZSVK4aFh9l4ps_qQMJQQdT-p_vUlQM4-eHK3ppOZ_zJGZ_Swd39A" />][webdevplaylist]
+
 [<img align="left" alt="C++" width="36px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-logo.png" />][cpp]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
