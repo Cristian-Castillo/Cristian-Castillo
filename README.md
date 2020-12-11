@@ -40,7 +40,6 @@
 
 <br />
 
----
 [website]: https://www.freecodecamp.org/cris-castillo
 [cpp]: https://www.cplusplus.com/
 [linkedin]: https://www.linkedin.com/in/cristian-c-castillo-28605b1b1/
