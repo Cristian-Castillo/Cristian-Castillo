@@ -1,6 +1,6 @@
 ### Hi there, I'm Cristian 👋
 
-## I'm a lifelong learner, pug Owner, and a computer scientist!
+## I'm a lifelong learner, dog lover, and a computer scientist!
 - 🔭   I’m currently working on Multithreading 
 - 🌱   I’m currently learning everything 🤣
 - 👯   I’m looking to collaborate with other content creators
