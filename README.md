@@ -1,10 +1,10 @@
 ### Hi there, I'm Cristian 👋
 
 ## I'm a lifelong learner, dog lover, and a computer scientist!
-- 🔭   I’m currently working on Multithreading 
+- 🔭   I’m currently working on ios development
 - 🌱   I’m currently learning everything 🤣
 - 👯   I’m looking to collaborate with other content creators
-- 🥅   2020 Goals: Contribute more to Open Source projects
+- 🥅   2021 Goals: Contribute more to Open Source projects
 - ⚡    Fun fact: I love to learn new things all the time
 
 ### Languages and Tools:
