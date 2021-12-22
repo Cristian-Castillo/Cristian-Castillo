@@ -2,9 +2,9 @@
 
 ## I'm a lifelong learner, dog lover, and a computer scientist!
 - 🔭   I’m currently working on web development
-- 🌱   I’m currently learning everything 🤣
+- 🌱   I’m currently learning everything
 - 👯   I’m looking to collaborate with other content creators
-- 🥅   2021 Goals: Become a full stack developer
+- 🥅   2022 Goals: Become a full stack developer
 - ⚡    Fun fact: I love to learn new things all the time
 
 ### Languages and Tools:
