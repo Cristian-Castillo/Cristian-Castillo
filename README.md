@@ -5,7 +5,7 @@
 - 🌱   I’m currently learning everything
 - 👯   I’m looking to collaborate with other content creators
 - 🥅   2022 Goals: Become a full stack MERN developer
-- ⚡    Fun fact: I love to learn new things all the time
+- ⚡    Fun fact: I love to learn and try new things all the time
 
 ### Languages and Tools:
 
