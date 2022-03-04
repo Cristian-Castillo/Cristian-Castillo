@@ -4,7 +4,7 @@
 - 🔭   I’m currently working on web development
 - 🌱   I’m currently learning everything
 - 👯   I’m looking to collaborate with other content creators
-- 🥅   2022 Goals: Become a full stack MERN developer
+- 🥅   ~~2022 Goals: Become a full stack MERN developer 
 - ⚡    Fun fact: I love to learn and try new things all the time
 
 ### Languages and Tools:
@@ -33,9 +33,9 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 <br />
 
-### Connect with me:
-[<img align="left" alt="Cristian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<!-- ### Connect with me: -->
+<!-- [<img align="left" alt="Cristian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ -->
 <br />
 
 [website]: https://www.freecodecamp.org/cris-castillo
