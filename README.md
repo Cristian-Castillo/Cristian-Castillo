@@ -1,8 +1,8 @@
 ### Hi there, I'm Cristian 👋
 
 ## I'm a lifelong learner, dog lover, and a computer scientist!
-- 🔭   I’m currently working on web development
-- 🌱   I’m currently learning everything
+- 🔭   I’m currently working with the Zuul to deliver various web microservices
+- 🌱   I’m currently learning Typescript, better Unit Testing, and Playwright
 - 👯   I’m looking to collaborate with other content creators
 - ⚡    Fun fact: I love to learn and try new things all the time
 
