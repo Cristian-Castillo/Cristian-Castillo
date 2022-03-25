@@ -1,6 +1,6 @@
 ### Hi there, I'm Cristian 👋
 
-## I'm a lifelong learner, dog lover, and a computer scientist!
+## I'm a lifelong learner, dog lover, and Software Engineer!
 - 🔭   I’m currently working with the Zuul at Acquia & Widen, to deliver various web microservices
 - 🌱   I’m currently learning Typescript, better Unit Testing, and Playwright
 - 👯   I’m looking to collaborate with other content creators
