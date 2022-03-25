@@ -2,7 +2,7 @@
 
 ## I'm a lifelong learner, dog lover, and Software Engineer!
 - 🔭   I’m currently working with the Zuul at Acquia & Widen, to deliver various web microservices
-- 🌱   I’m currently learning Typescript, better Unit Testing, and Playwright
+- 🌱   I’m currently learning Typescript and Playwright e2e testing.
 - 👯   I’m looking to collaborate with other content creators
 - ⚡    Fun fact: I love to learn and try new things all the time
 
