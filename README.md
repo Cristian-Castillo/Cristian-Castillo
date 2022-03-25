@@ -37,13 +37,13 @@
  -->
 <br />
 
-[website]: 
-[cpp]:
-[linkedin]: 
-[facebook]: 
-[twitter]: 
-[youtube]: 
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
+[website]: https://www.google.com/
+[cpp]:https://www.google.com/
+[linkedin]: https://www.google.com/
+[facebook]: https://www.google.com/
+[twitter]: https://www.google.com/
+[youtube]: https://www.google.com/
+[webdevplaylist]: https://www.google.com/
+[jsplaylist]: https://www.google.com/
+[cssplaylist]: https://www.google.com/
+[reactplaylist]: https://www.google.com/
