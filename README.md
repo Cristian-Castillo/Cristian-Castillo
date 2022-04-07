@@ -1,7 +1,7 @@
 ### Hi there, I'm Cristian 👋
 
 ## I'm a lifelong learner, dog lover, and Software Engineer!
-- 🔭   I’m currently working with the Zuul at Acquia & Widen on delivering various web microservices
+- 🔭   I’m currently working web development
 - 🌱   I’m currently learning Typescript and Playwright e2e testing.
 - 👯   I’m looking to collaborate with other content creators
 - ⚡    Fun fact: I love to learn and try new things all the time
