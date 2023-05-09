@@ -1,6 +1,6 @@
 ### Hi there, I'm Cristian 👋
 
-## I'm a lifelong learner, dog lover, and Software Engineer!
+## I'm a lifelong learner, dog lover, and Integrations Engineer!
 - 🔭   I’m currently working with web development
 - 🌱   I’m currently learning Typescript, Playwright e2e testing, and React Native
 - 👯   I’m looking to collaborate with other content creators
