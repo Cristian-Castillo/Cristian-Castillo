@@ -1,9 +1,9 @@
 ### Hi there, I'm Cristian 👋
 
 ## I'm a lifelong learner, dog lover, and Integrations Engineer!
-- 🔭   I’m currently working with web development
-- 🌱   I’m currently learning Typescript, Playwright e2e testing, and React Native
-- 👯   I’m looking to collaborate with other content creators
+- 🔭   I’m currently working as an integrations engineer
+- 🌱   I’m currently working with SQL, JavaScript, HTML, CSS, VBScript, Xpath, and integrating multiple mass projects
+- 👯   I’m looking to collaborate with other content creators 
 - ⚡    Fun fact: I love to learn and try new things all the time
 
 ### Languages and Tools:
@@ -17,12 +17,6 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][reactplaylist]
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 
 [<img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />][webdevplaylist]
 
