@@ -18,7 +18,7 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 
-[<img align="left" alt="VBScript" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreazilla.com%2Fnodes%2F3259842-vbs-icon&psig=AOvVaw2L9d0rfMd2Mk5O0-rOhCCq&ust=1686837157854000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKiG8sv0wv8CFQAAAAAdAAAAABAF" />][webdevplaylist]
+[<img align="left" alt="VBScript" width="26px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3259842/vbs-icon-md.png" />][webdevplaylist]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 
