@@ -1,10 +1,10 @@
 ### Hi there, I'm Cristian 👋
 
 ## I'm a lifelong learner, dog lover, and Integrations Engineer!
-- 🔭   I’m currently working as an integrations engineer
-- 🌱   I’m currently working with SQL, JavaScript, HTML, CSS, VBScript, Xpath, and integrating multiple mass projects
-- 👯   I’m looking to collaborate with other content creators 
-- ⚡    Fun fact: I love to learn and try new things all the time
+- 🔭   I’m currently working on the server/client side, integrating multiple new client projects
+- 🌱   I continously use SQL/Oracle, JavaScript, HTML, CSS, VBScript, and Xpath
+- 👯   I’m looking to collaborate with other engineers
+- ⚡   Fun fact: I love to learn and try new things all the time
 
 ### Languages and Tools:
 
@@ -23,6 +23,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 <br />
 
@@ -40,4 +41,3 @@
 [webdevplaylist]: https://www.google.com/
 [jsplaylist]: https://www.google.com/
 [cssplaylist]: https://www.google.com/
-[reactplaylist]: https://www.google.com/
